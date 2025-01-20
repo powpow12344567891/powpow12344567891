@@ -7,6 +7,5 @@
 - some knowledge in arduino, sql and unity 
 
 <!---
-powpow12344567891/powpow12344567891 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ajout de em a fairt et rendre plus beau
 --->
