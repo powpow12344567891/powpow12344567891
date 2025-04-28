@@ -4,7 +4,8 @@
 - im learning low level coding
 - languages i learned : python, liberty basic, c#, html-css, bash 
 - language i want to learn: c++, javascript
-- some knowledge in c, java and unity 
+- some knowledge in c, java and unity
+- ach linux enjoyer
 
 <!---
 
