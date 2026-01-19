@@ -4,14 +4,14 @@
 
 
 
-### Outils 
+### ⚙️ Outils 
 ____________________________________________________
 - IDE : Nvim, intellij
 - OS : linux (arch plus specifiquement)
 
 
 
-### Languages
+### 📋 Languages
 __________________________________________________
 - language connus : python, liberty basic, c#, html-css, bash, java
 - language que j'apprend : c++, javascript and rust
@@ -19,7 +19,8 @@ __________________________________________________
 
 
 
-### interets et passions
+### 🎨 interets et passions
 ___________________________________________________
-- je suis  par le  d'applications et de jeux 
-- je suis en train d'aprendre a coder en rust
+- je suis passionné par le developpement d'applications et de jeux
+- j'aime l'art et dessiner
+- je suis actuellement en train d'apprendre a coder en rust
