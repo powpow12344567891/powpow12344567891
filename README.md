@@ -1,11 +1,21 @@
 - Hi, I’m @powpow12344567891
-- Studient in iut du limousin
-- I’m interested in game developpement and app dev
-- im learning low level coding
-- languages i learned : python, liberty basic, c#, html-css, bash, java
-- language i want to learn: c++, javascript and rust
-- some knowledge in c and unity
+- etudiant a l'iut du limousin
 
-<!---
+Outils 
+____________________________________________________
+- IDE : Nvim, intellij
+- OS : linux
+
+
+-je suis intérésé par le devloppement d'applications et de jeux videos
+- j'apprend le bas niveau
+
+  Languages
+__________________________________________________
+- language connus : python, liberty basic, c#, html-css, bash, java
+- language que j'apprend : c++, javascript and rust
+- quelques connaissances en c et l'utilisattion du moteur unity
+
+<!--
 
 --->
