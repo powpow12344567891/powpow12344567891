@@ -7,14 +7,15 @@ ____________________________________________________
 - OS : linux
 
 
--je suis intérésé par le devloppement d'applications et de jeux videos
+-je suis intérésé par le developpement d'applications et de jeux videos
 - j'apprend le bas niveau
 
   Languages
 __________________________________________________
 - language connus : python, liberty basic, c#, html-css, bash, java
 - language que j'apprend : c++, javascript and rust
-- quelques connaissances en c et l'utilisattion du moteur unity
+- quelques connaissances en c et l'utilisation du moteur unity
+
 
 <!--
 
