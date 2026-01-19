@@ -1,14 +1,12 @@
 - Hi, I’m @powpow12344567891
+- he/him
 - etudiant a l'iut du limousin
 
 Outils 
 ____________________________________________________
 - IDE : Nvim, intellij
-- OS : linux
+- OS : linux (arch plus specifiquement)
 
-
--je suis intérésé par le developpement d'applications et de jeux videos
-- j'apprend le bas niveau
 
   Languages
 __________________________________________________
@@ -17,6 +15,7 @@ __________________________________________________
 - quelques connaissances en c et l'utilisation du moteur unity
 
 
-<!--
-
---->
+interets et passions
+___________________________________________________
+- je suis  par le  d'applications et de jeux 
+- je suis en train d'aprendre a coder en rust
